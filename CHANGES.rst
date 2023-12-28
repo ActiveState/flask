@@ -1,5 +1,14 @@
 .. currentmodule:: flask
 
+Version 1.1.4.1
+-------------
+
+Released 2023-12-28
+
+-   Security release for Python 2 - CVE-2023-30861 
+-   Set ``Vary: Cookie`` header when the session is accessed, modified, or refreshed.
+
+
 Version 1.1.4
 -------------
 
